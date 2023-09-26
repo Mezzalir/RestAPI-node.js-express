@@ -1,7 +1,7 @@
 
 # NODE.JS and EXPRESS
 
-<p>This is my **first** ever REST API using `NODE.js` and `Express`!</p>
+<p>This is my**first**ever REST API using `NODE.js` and `Express`!</p>
 
 ___
 
