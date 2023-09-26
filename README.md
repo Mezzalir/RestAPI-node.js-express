@@ -1,3 +1,8 @@
-# NODE.JS e EXPRESS
 
-Primeira parte realizada gratuitamente no youtube e depois realizando o curso na Udemy : https://www.udemy.com/course/nodejs-master-class/
+# NODE.JS and EXPRESS
+
+<p>This is my **first** ever REST API using `NODE.js` and `Express`!</p>
+
+___
+
+<P>Working on it to add `Database`

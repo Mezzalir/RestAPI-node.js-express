@@ -1,12 +1,17 @@
 {
   "name": "helloworld",
   "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
+  "description": "Primeira parte realizada gratuitamente no youtube e depois realizando o curso na Udemy : https://www.udemy.com/course/nodejs-master-class/",
+  "main": "index.js",
+  "type": "module",
   "scripts": {
-    "start": "node app.js"
+    "start": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.1"
+  }
 }
